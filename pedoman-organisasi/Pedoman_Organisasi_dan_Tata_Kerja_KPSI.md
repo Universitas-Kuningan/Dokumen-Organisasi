@@ -1,3 +1,7 @@
+---
+layout: document
+---
+
 # PEDOMAN ORGANISASI DAN TATA KERJA
 # KANTOR PUSAT SISTEM INFORMASI
 

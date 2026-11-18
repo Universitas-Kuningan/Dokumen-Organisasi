@@ -1,3 +1,7 @@
+---
+layout: document
+---
+
 # PB-06 – PENANGANAN GANGGUAN DAN INSIDEN TEKNOLOGI INFORMASI
 
 | Informasi | Keterangan |

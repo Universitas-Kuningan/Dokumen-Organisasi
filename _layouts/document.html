@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#123b36">
+  <title>{{ page.title | default: page.name | replace: ".md", "" | replace: "_", " " }} | Dokumen Organisasi KPSI</title>
+  <style>
+    :root{--ink:#172b29;--muted:#60716e;--green:#123b36;--lime:#c8e27b;--paper:#f5f6ef;--line:#e3e8dc}
+    *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.75 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+    a{color:#1c6758}.wrap{width:min(900px,calc(100% - 36px));margin:auto}.top{background:var(--green);color:white;padding:18px 0}.topinner{display:flex;align-items:center;justify-content:space-between;gap:15px}.brand{display:flex;align-items:center;gap:11px;color:white;text-decoration:none;font-weight:750}.mark{display:grid;place-items:center;width:40px;height:40px;border-radius:13px;background:#1d5148;color:var(--lime);font-size:12px}.brand small{display:block;color:#c6d7ce;font-size:10px;letter-spacing:.13em;text-transform:uppercase}.back{color:var(--lime);font-size:13px;font-weight:700;text-decoration:none}
+    main{padding:42px 0 64px}.crumb{margin:0 0 17px;color:var(--muted);font-size:13px}.crumb a{color:var(--green);font-weight:700;text-decoration:none}.article{padding:clamp(24px,6vw,58px);border:1px solid var(--line);border-radius:20px;background:white;box-shadow:0 18px 50px rgba(22,52,44,.07)}.article h1,.article h2,.article h3{color:var(--green);line-height:1.25;letter-spacing:-.035em}.article h1{margin:.1em 0 .7em;font-size:clamp(30px,5vw,44px)}.article h2{margin-top:1.8em;font-size:28px}.article h3{margin-top:1.5em;font-size:21px}.article p,.article li{color:#344641}.article li{padding-left:4px;margin:.25em 0}.article blockquote{margin:1.3em 0;padding:12px 18px;border-left:4px solid var(--lime);background:#f6f8f0;color:#44554c}.article table{display:block;max-width:100%;overflow:auto;border-collapse:collapse}.article th,.article td{padding:10px 12px;border:1px solid var(--line);text-align:left}.article th{background:#f1f5e9;color:var(--green)}.article code{padding:.15em .4em;border-radius:5px;background:#f1f3ec;font-size:.9em}.article pre{overflow:auto;padding:16px;border-radius:12px;background:#183d37;color:#f5f6ef}.article pre code{padding:0;background:none}.article img{max-width:100%;height:auto;border-radius:10px}.article hr{border:0;border-top:1px solid var(--line);margin:2em 0}
+    @media(max-width:600px){.wrap{width:calc(100% - 26px)}.topinner{align-items:flex-start}.article{padding:23px 19px;border-radius:15px}main{padding:27px 0 42px}}
+  </style>
+</head>
+<body>
+  <header class="top"><div class="wrap topinner"><a class="brand" href="{{ '/' | relative_url }}"><span class="mark">KPSI</span><span><small>Universitas Kuningan</small>Dokumen Organisasi</span></a><a class="back" href="{{ '/' | relative_url }}">← Semua dokumen</a></div></header>
+  <main class="wrap"><p class="crumb"><a href="{{ '/' | relative_url }}">Beranda</a> / Dokumen</p><article class="article">{{ content }}</article></main>
+  <footer><div class="wrap">© KPSI Universitas Kuningan · <a href="https://github.com/Universitas-Kuningan/Dokumen-Organisasi">Repositori sumber</a></div></footer>
+</body>
+</html>

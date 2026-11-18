@@ -1,3 +1,7 @@
+---
+layout: document
+---
+
 # PB-04 – PENGELOLAAN WEBSITE UNIVERSITAS DAN UNIT KERJA
 
 ## 1. Identitas Dokumen

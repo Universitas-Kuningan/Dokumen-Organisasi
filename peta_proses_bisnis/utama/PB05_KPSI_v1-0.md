@@ -1,3 +1,7 @@
+---
+layout: document
+---
+
 # PB-05 – PENGELOLAAN LAYANAN E-LEARNING
 
 | Informasi | Keterangan |

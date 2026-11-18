@@ -1,3 +1,7 @@
+---
+layout: document
+---
+
 # PP-01 – PENGELOLAAN DOKUMENTASI DAN INFORMASI TEKNIS TEKNOLOGI INFORMASI
 
 | Informasi | Keterangan |

@@ -1,3 +1,7 @@
+---
+layout: document
+---
+
 # PB-02 – PENGEMBANGAN DAN INTEGRASI APLIKASI
 
 ## 1. Identitas Dokumen

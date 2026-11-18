@@ -1,3 +1,7 @@
+---
+layout: document
+---
+
 # PETA PROSES BISNIS
 # KANTOR PUSAT SISTEM INFORMASI (KPSI)
 ## LEVEL 0

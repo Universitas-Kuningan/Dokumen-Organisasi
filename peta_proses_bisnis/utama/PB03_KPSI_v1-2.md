@@ -1,3 +1,7 @@
+---
+layout: document
+---
+
 # PB-03 – PENGELOLAAN INFRASTRUKTUR JARINGAN DAN SERVER
 
 ## 1. Identitas Dokumen
