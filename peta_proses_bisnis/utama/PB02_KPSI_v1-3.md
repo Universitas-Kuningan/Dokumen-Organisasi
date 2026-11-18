@@ -150,6 +150,7 @@ flowchart TD
 | 17 | Pemantauan awal | Unit terkait di KPSI | Memantau fungsi aplikasi setelah diterapkan, menangani kendala awal, dan mengoordinasikan perbaikan apabila ditemukan masalah. | Catatan pemantauan awal |
 | 18 | Dokumentasi dan serah terima | Unit Pengembangan Aplikasi dan Integrasi Sistem, dikoordinasikan Kepala KPSI; pihak ketiga/vendor sesuai ruang lingkup | Memastikan dokumentasi teknis, source code untuk komponen yang memang dikembangkan dan menjadi hak/akses universitas, desain arsitektur, struktur data, API/integrasi, pemetaan data, konfigurasi deployment, panduan instalasi dan pemeliharaan, informasi lisensi/hak penggunaan, serta akses administratif yang dipersyaratkan telah diserahkan dan diperiksa. Untuk SaaS, dokumentasi API, konfigurasi tenant yang dapat diekspor, catatan integrasi, serta ketentuan akses dan dukungan vendor menjadi bagian dokumentasi; source code produk inti SaaS tidak dianggap sebagai keluaran yang otomatis wajib diserahkan. | Dokumentasi, artefak pengembangan sesuai kesepakatan, dan catatan serah terima |
 | 19 | Penutupan proses | Kepala KPSI | Memastikan keluaran utama, keputusan, hasil pengujian, dan dokumentasi tercatat. Mengakhiri proses pengembangan dan mengalihkan penanganan operasional ke mekanisme layanan/pemeliharaan. | Catatan penyelesaian PB-02 |
+
 ## 8. Ketentuan Persetujuan dan Pengendalian Perubahan
 
 ### 8.1 Persetujuan pengembangan
