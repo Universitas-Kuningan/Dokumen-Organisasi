@@ -207,3 +207,13 @@ Hal-hal teknis tersebut dapat ditetapkan melalui keputusan internal KPSI tanpa m
 SOP ini menjadi acuan operasional pelaksanaan pengamanan teknis layanan teknologi informasi di lingkungan universitas, sebagai turunan dari PP-02 Keamanan, Backup, dan Pemulihan.
 
 Pengamanan yang berlapis, hak akses yang diberikan secukupnya dan ditinjau secara berkala, serta penanganan insiden yang tercatat dan terkoordinasi menjadi dasar bagi keamanan layanan teknologi informasi universitas. Rincian pengendalian, jadwal peninjauan, dan penanggung jawab ditetapkan lebih lanjut sesuai ketentuan pada Bab 10.
+
+---
+
+## Lampiran — Unduh Versi PDF
+
+Dokumen ini tersedia dalam versi PDF yang dapat diunduh melalui tautan berikut:
+
+- [Unduh SOP Pengelolaan Keamanan Teknis v1.0 (PDF)](https://drive.google.com/file/d/1LyTg9qKDHIhc9RkM00MFmYBUR7UGWWu-/view?usp=drivesdk)
+
+Versi PDF disimpan pada folder Drive SOP_PUSINFO_2026. Apabila isi SOP diperbarui, versi PDF perlu dibuat ulang agar tetap sesuai dengan dokumen ini.
